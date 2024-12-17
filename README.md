@@ -11,6 +11,6 @@ Hello there! I am a post-doctoral research associate at the department of ECE at
 I have been working/worked on different projects related to learning from graphs, which led to different Github repos. Below is a categorization of these projects based on their respective research problem:
 
 - [Graph Learning](https://github.com/stars/abdkarr/lists/graph-learning): Projects on inference of graph structure from observed graph signals.
-- [Community Detection](https://github.com/stars/abdkarr/lists/community-detection) Projects on detection of community structure from graphs.
+- [Community Detection](https://github.com/stars/abdkarr/lists/community-detection): Projects on detection of community structure from graphs.
 - [Robust Learning on Graphs](https://github.com/stars/abdkarr/lists/robust-learning-on-graphs): *Under Construction*
-- [Crowdsourcing](https://github.com/stars/abdkarr/lists/crowdsourcing) *Under Construction*
+- [Crowdsourcing](https://github.com/stars/abdkarr/lists/crowdsourcing): *Under Construction*
