@@ -12,5 +12,5 @@ I have been working/worked on different projects related to learning from graphs
 
 - [Graph Learning](https://github.com/stars/abdkarr/lists/graph-learning): Projects on inference of graph structure from observed graph signals.
 - [Community Detection](https://github.com/stars/abdkarr/lists/community-detection): Projects on detection of community structure from graphs.
-- [Robust Learning on Graphs](https://github.com/stars/abdkarr/lists/robust-learning-on-graphs): *Under Construction*
+- [Robust Learning on Graphs](https://github.com/stars/abdkarr/lists/robust-gsp): *Under Construction*
 - [Crowdsourcing](https://github.com/stars/abdkarr/lists/crowdsourcing): *Under Construction*
